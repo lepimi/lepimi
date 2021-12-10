@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @lepimi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+git add .
+git commit -m "Initial  commit"
+git push --all
+
+
+
+
 
 <!---
 lepimi/lepimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
